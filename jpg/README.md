@@ -21,4 +21,3 @@
 
 # 多分类上的拟合（加入attention后）10w次iter
 ![alt text](jpg/attention.png)
-=======
